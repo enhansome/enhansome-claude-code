@@ -19,7 +19,7 @@
             "last_commit": "2026-04-20T10:05:04Z",
             "owner": "multica-ai",
             "repo": "andrej-karpathy-skills",
-            "stars": 203161
+            "stars": 203442
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T14:51:47Z",
+            "last_commit": "2026-08-17T06:27:58Z",
             "owner": "shareAI-lab",
             "repo": "learn-claude-code",
-            "stars": 74412
+            "stars": 74506
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-17T05:44:48Z",
             "owner": "luongnv89",
             "repo": "claude-howto",
-            "stars": 41067
+            "stars": 41084
           }
         },
         {
@@ -58,10 +58,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T00:25:31Z",
+            "last_commit": "2026-08-18T00:25:28Z",
             "owner": "zebbern",
             "repo": "claude-code-guide",
-            "stars": 4575
+            "stars": 4578
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-28T11:00:38Z",
             "owner": "wesammustafa",
             "repo": "Claude-Code-Everything-You-Need-to-Know",
-            "stars": 2649
+            "stars": 2658
           }
         },
         {
@@ -106,10 +106,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T18:09:56Z",
+            "last_commit": "2026-08-17T17:23:18Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 169808
+            "stars": 170091
           }
         },
         {
@@ -120,10 +120,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T00:03:15Z",
+            "last_commit": "2026-08-18T03:29:51Z",
             "owner": "anthropics",
             "repo": "claude-plugins-official",
-            "stars": 33597
+            "stars": 33634
           }
         },
         {
@@ -134,10 +134,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T23:47:47Z",
+            "last_commit": "2026-08-17T20:25:29Z",
             "owner": "anthropics",
             "repo": "claude-code-action",
-            "stars": 8648
+            "stars": 8656
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-02-11T18:01:23Z",
             "owner": "anthropics",
             "repo": "claude-code-security-review",
-            "stars": 5864
+            "stars": 5893
           }
         }
       ],
@@ -168,10 +168,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T19:59:08Z",
+            "last_commit": "2026-08-17T21:05:56Z",
             "owner": "Piebald-AI",
             "repo": "claude-code-system-prompts",
-            "stars": 12325
+            "stars": 12347
           }
         },
         {
@@ -185,7 +185,7 @@
             "last_commit": "2026-08-16T03:35:35Z",
             "owner": "VILA-Lab",
             "repo": "Dive-into-Claude-Code",
-            "stars": 2060
+            "stars": 2061
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2026-08-07T18:53:22Z",
             "owner": "tjboudreaux",
             "repo": "cc-thinking-skills",
-            "stars": 956
+            "stars": 958
           }
         },
         {
@@ -227,7 +227,7 @@
             "last_commit": "2026-08-04T12:16:29Z",
             "owner": "hluaguo",
             "repo": "learn-faster-kit",
-            "stars": 354
+            "stars": 355
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2026-06-23T14:08:21Z",
             "owner": "Li-Evan",
             "repo": "Bloom",
-            "stars": 230
+            "stars": 232
           }
         },
         {
@@ -269,7 +269,7 @@
             "last_commit": "2026-07-27T07:09:25Z",
             "owner": "ferrumclaudepilgrim",
             "repo": "claude-code-android",
-            "stars": 199
+            "stars": 202
           }
         },
         {
@@ -283,7 +283,7 @@
             "last_commit": "2026-08-07T15:32:08Z",
             "owner": "roomi-fields",
             "repo": "notebooklm-mcp",
-            "stars": 154
+            "stars": 158
           }
         },
         {
@@ -294,7 +294,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T15:12:58Z",
+            "last_commit": "2026-08-18T03:25:19Z",
             "owner": "costiash",
             "repo": "claude-code-docs",
             "stars": 51
@@ -373,7 +373,7 @@
             "last_commit": "2026-08-01T12:03:27Z",
             "owner": "AgriciDaniel",
             "repo": "claude-obsidian",
-            "stars": 10953
+            "stars": 10976
           }
         },
         {
@@ -401,7 +401,7 @@
             "last_commit": "2026-08-17T04:30:26Z",
             "owner": "ccf",
             "repo": "agentcairn",
-            "stars": 35
+            "stars": 37
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2026-06-10T18:20:30Z",
             "owner": "pedrohcgs",
             "repo": "claude-code-my-workflow",
-            "stars": 1499
+            "stars": 1507
           }
         },
         {
@@ -449,7 +449,7 @@
             "last_commit": "2026-08-02T04:44:53Z",
             "owner": "WenyuChiou",
             "repo": "ai-research-skills",
-            "stars": 208
+            "stars": 210
           }
         }
       ],
@@ -469,7 +469,7 @@
             "last_commit": "2026-08-05T13:27:59Z",
             "owner": "ypollak2",
             "repo": "llm-router",
-            "stars": 69
+            "stars": 70
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2026-07-01T12:50:01Z",
             "owner": "SFKislev",
             "repo": "Flue",
-            "stars": 67
+            "stars": 68
           }
         },
         {
@@ -522,7 +522,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T05:33:50Z",
+            "last_commit": "2026-08-18T05:43:55Z",
             "owner": "EndeavorYen",
             "repo": "chrome-cdp-ex",
             "stars": 13
@@ -556,7 +556,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-10T12:38:26Z",
+            "last_commit": "2026-08-18T05:32:38Z",
             "owner": "sorkila",
             "repo": "lockpaw",
             "stars": 143
@@ -646,10 +646,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T18:43:14Z",
+            "last_commit": "2026-08-17T11:15:19Z",
             "owner": "siteboon",
             "repo": "claudecodeui",
-            "stars": 13317
+            "stars": 13326
           }
         },
         {
@@ -660,10 +660,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T07:03:23Z",
+            "last_commit": "2026-08-17T07:19:16Z",
             "owner": "0-AI-UG",
             "repo": "cate",
-            "stars": 2083
+            "stars": 2084
           }
         },
         {
@@ -674,10 +674,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T04:54:09Z",
+            "last_commit": "2026-08-17T23:59:12Z",
             "owner": "nimbalyst",
             "repo": "nimbalyst",
-            "stars": 1496
+            "stars": 1505
           }
         },
         {
@@ -702,7 +702,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T02:45:05Z",
+            "last_commit": "2026-08-18T02:41:44Z",
             "owner": "shengyanlin",
             "repo": "claude-overlay",
             "stars": 86
@@ -753,7 +753,7 @@
             "last_commit": "2026-08-02T15:45:50Z",
             "owner": "leeguooooo",
             "repo": "claude-code-usage-bar",
-            "stars": 349
+            "stars": 352
           }
         },
         {
@@ -798,10 +798,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-14T21:28:44Z",
+            "last_commit": "2026-08-17T22:03:34Z",
             "owner": "cathrynlavery",
             "repo": "diagram-design",
-            "stars": 19833
+            "stars": 20955
           }
         },
         {
@@ -815,7 +815,7 @@
             "last_commit": "2026-08-15T01:45:50Z",
             "owner": "nicobailon",
             "repo": "visual-explainer",
-            "stars": 9500
+            "stars": 9511
           }
         },
         {
@@ -829,7 +829,7 @@
             "last_commit": "2026-07-15T01:30:01Z",
             "owner": "SawyerHood",
             "repo": "dev-browser",
-            "stars": 6549
+            "stars": 6551
           }
         },
         {
@@ -843,7 +843,7 @@
             "last_commit": "2026-08-13T13:37:12Z",
             "owner": "bitjaru",
             "repo": "styleseed",
-            "stars": 897
+            "stars": 900
           }
         },
         {
@@ -857,7 +857,7 @@
             "last_commit": "2026-05-07T05:31:08Z",
             "owner": "rixinhahaha",
             "repo": "snip",
-            "stars": 280
+            "stars": 281
           }
         },
         {
@@ -867,11 +867,11 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-13T08:15:46Z",
+            "language": "JavaScript",
+            "last_commit": "2026-08-17T14:47:32Z",
             "owner": "educlopez",
             "repo": "ui-craft",
-            "stars": 270
+            "stars": 272
           }
         }
       ],
@@ -888,10 +888,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T04:06:59Z",
+            "last_commit": "2026-08-17T20:29:04Z",
             "owner": "conorbronsdon",
             "repo": "avoid-ai-writing",
-            "stars": 3046
+            "stars": 3082
           }
         },
         {
@@ -905,7 +905,7 @@
             "last_commit": "2026-04-19T02:05:51Z",
             "owner": "glacierphonk",
             "repo": "naming",
-            "stars": 75
+            "stars": 76
           }
         }
       ],
@@ -925,7 +925,7 @@
             "last_commit": "2026-08-11T15:39:41Z",
             "owner": "Alisa0808",
             "repo": "vox-director",
-            "stars": 1328
+            "stars": 1352
           }
         },
         {
@@ -939,21 +939,7 @@
             "last_commit": "2026-08-09T11:39:19Z",
             "owner": "es617",
             "repo": "claude-replay",
-            "stars": 809
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "motion-skills",
-          "description": "by iart.ai - An open-source collection of ~50 motion-graphics, animation, and video skills across 14 installable packs — kinetic typography, data-driven charts, explainers, TikTok/Reels, web/WebGL animation, and Manim math animation — that teach an agent how a professional would build each piece. Every visual skill ships a deliver-and-verify loop (render a frame → screenshot → check) plus a small verify toolkit, so the agent inspects its own output instead of guessing at timing and framing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-06-30T15:02:04Z",
-            "owner": "iart-ai",
-            "repo": "motion-skills",
-            "stars": 356
+            "stars": 811
           }
         },
         {
@@ -967,7 +953,21 @@
             "last_commit": "2026-08-17T05:44:44Z",
             "owner": "renezander030",
             "repo": "capcut-cli",
-            "stars": 354
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "motion-skills",
+          "description": "by iart.ai - An open-source collection of ~50 motion-graphics, animation, and video skills across 14 installable packs — kinetic typography, data-driven charts, explainers, TikTok/Reels, web/WebGL animation, and Manim math animation — that teach an agent how a professional would build each piece. Every visual skill ships a deliver-and-verify loop (render a frame → screenshot → check) plus a small verify toolkit, so the agent inspects its own output instead of guessing at timing and framing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-30T15:02:04Z",
+            "owner": "iart-ai",
+            "repo": "motion-skills",
+            "stars": 360
           }
         }
       ],
@@ -987,7 +987,7 @@
             "last_commit": "2026-07-03T05:56:41Z",
             "owner": "antonbabenko",
             "repo": "terraform-skill",
-            "stars": 2278
+            "stars": 2282
           }
         },
         {
@@ -1018,10 +1018,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T09:10:56Z",
+            "last_commit": "2026-08-17T18:45:09Z",
             "owner": "NVIDIA",
             "repo": "SkillSpector",
-            "stars": 14688
+            "stars": 14725
           }
         },
         {
@@ -1032,7 +1032,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T15:51:24Z",
+            "last_commit": "2026-08-18T01:40:04Z",
             "owner": "kenryu42",
             "repo": "cc-safety-net",
             "stars": 1491
@@ -1046,10 +1046,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T20:14:31Z",
+            "last_commit": "2026-08-17T12:09:32Z",
             "owner": "mensfeld",
             "repo": "code-on-incus",
-            "stars": 653
+            "stars": 654
           }
         },
         {
@@ -1077,7 +1077,7 @@
             "last_commit": "2026-07-24T23:13:46Z",
             "owner": "agentrhq",
             "repo": "authsome",
-            "stars": 80
+            "stars": 81
           }
         },
         {
@@ -1091,7 +1091,7 @@
             "last_commit": "2026-08-15T02:07:47Z",
             "owner": "airutorg",
             "repo": "airut",
-            "stars": 79
+            "stars": 80
           }
         },
         {
@@ -1102,7 +1102,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T20:38:04Z",
+            "last_commit": "2026-08-18T05:15:56Z",
             "owner": "stacklok",
             "repo": "brood-box",
             "stars": 58
@@ -1144,7 +1144,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-17T02:11:23Z",
+            "last_commit": "2026-08-17T06:10:16Z",
             "owner": "stefanoginella",
             "repo": "aicontainer",
             "stars": 18
@@ -1158,7 +1158,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-10T16:57:33Z",
+            "last_commit": "2026-08-17T18:46:24Z",
             "owner": "dshakes",
             "repo": "compass",
             "stars": 18
@@ -1234,10 +1234,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T03:40:09Z",
+            "last_commit": "2026-08-17T21:37:41Z",
             "owner": "garrytan",
             "repo": "gstack",
-            "stars": 128300
+            "stars": 128448
           }
         },
         {
@@ -1251,7 +1251,7 @@
             "last_commit": "2026-07-24T23:35:08Z",
             "owner": "revfactory",
             "repo": "harness",
-            "stars": 8777
+            "stars": 8779
           }
         },
         {
@@ -1265,7 +1265,7 @@
             "last_commit": "2026-08-17T03:36:03Z",
             "owner": "Chachamaru127",
             "repo": "claude-code-harness",
-            "stars": 3058
+            "stars": 3061
           }
         },
         {
@@ -1338,10 +1338,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T05:40:40Z",
+            "last_commit": "2026-08-17T20:20:58Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 141698
+            "stars": 141804
           }
         },
         {
@@ -1355,7 +1355,7 @@
             "last_commit": "2026-07-18T02:33:21Z",
             "owner": "frankbria",
             "repo": "ralph-claude-code",
-            "stars": 9605
+            "stars": 9607
           }
         },
         {
@@ -1389,7 +1389,7 @@
             "last_commit": "2026-08-13T00:36:31Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 272894
+            "stars": 273326
           }
         },
         {
@@ -1400,10 +1400,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T19:26:43Z",
+            "last_commit": "2026-08-18T00:05:53Z",
             "owner": "JuliusBrussee",
             "repo": "caveman",
-            "stars": 98576
+            "stars": 98787
           }
         },
         {
@@ -1431,7 +1431,7 @@
             "last_commit": "2026-07-10T19:41:20Z",
             "owner": "mrtooher",
             "repo": "fable-mode",
-            "stars": 826
+            "stars": 827
           }
         },
         {
@@ -1465,7 +1465,7 @@
             "last_commit": "2026-08-14T20:42:04Z",
             "owner": "activeloopai",
             "repo": "hivemind",
-            "stars": 1559
+            "stars": 1561
           }
         },
         {
@@ -1479,7 +1479,7 @@
             "last_commit": "2026-08-11T10:35:36Z",
             "owner": "egorfedorov",
             "repo": "claude-context-optimizer",
-            "stars": 93
+            "stars": 94
           }
         },
         {
@@ -1611,7 +1611,7 @@
             "last_commit": "2026-08-16T18:10:44Z",
             "owner": "hoangsonww",
             "repo": "Claude-Code-Agent-Monitor",
-            "stars": 914
+            "stars": 918
           }
         },
         {
@@ -1625,7 +1625,7 @@
             "last_commit": "2026-08-09T10:28:15Z",
             "owner": "m1ckc3s",
             "repo": "claude-status-bar",
-            "stars": 665
+            "stars": 664
           }
         },
         {
@@ -1639,7 +1639,7 @@
             "last_commit": "2026-08-04T08:42:44Z",
             "owner": "stefanprodan",
             "repo": "cctop",
-            "stars": 132
+            "stars": 133
           }
         },
         {
@@ -1681,7 +1681,7 @@
             "last_commit": "2026-07-29T17:36:58Z",
             "owner": "gmr",
             "repo": "claude-status",
-            "stars": 57
+            "stars": 58
           }
         },
         {
@@ -1712,10 +1712,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T04:49:18Z",
+            "last_commit": "2026-08-18T05:37:10Z",
             "owner": "ccusage",
             "repo": "ccusage",
-            "stars": 17965
+            "stars": 17988
           }
         },
         {
@@ -1726,10 +1726,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-13T11:52:55Z",
+            "last_commit": "2026-08-17T12:26:23Z",
             "owner": "tddworks",
             "repo": "ClaudeBar",
-            "stars": 1422
+            "stars": 1423
           }
         },
         {
@@ -1740,7 +1740,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-11T05:52:08Z",
+            "last_commit": "2026-08-18T02:08:38Z",
             "owner": "mag123c",
             "repo": "toktrack",
             "stars": 184
@@ -1790,20 +1790,6 @@
         },
         {
           "node_type": "item",
-          "title": "Claumon",
-          "description": "by fabioconcina - Claude Code dashboard for Pro/Max users: live rate-limit gauges, calibrated usage forecasts, session costs, memory browser. Single binary, zero config.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-30T17:09:11Z",
-            "owner": "fabioconcina",
-            "repo": "claumon",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
           "title": "claude-code-status-bar",
           "description": "by briansmith80 - Configurable status bar for Claude Code: usage limits with pacing markers, context window, git state, live activity, session cost, and 8 colour themes. Pure bash, zero dependencies.",
           "children": [],
@@ -1813,6 +1799,20 @@
             "last_commit": "2026-07-13T12:04:58Z",
             "owner": "briansmith80",
             "repo": "claude-code-status-bar",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Claumon",
+          "description": "by fabioconcina - Claude Code dashboard for Pro/Max users: live rate-limit gauges, calibrated usage forecasts, session costs, memory browser. Single binary, zero config.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-30T17:09:11Z",
+            "owner": "fabioconcina",
+            "repo": "claumon",
             "stars": 16
           }
         },
@@ -1903,7 +1903,7 @@
             "last_commit": "2026-07-22T06:40:29Z",
             "owner": "simple10",
             "repo": "agents-observe",
-            "stars": 649
+            "stars": 650
           }
         },
         {
@@ -1937,7 +1937,7 @@
             "last_commit": "2026-08-17T00:50:21Z",
             "owner": "agent-sh",
             "repo": "agnix",
-            "stars": 383
+            "stars": 386
           }
         },
         {
@@ -1962,7 +1962,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T08:59:55Z",
+            "last_commit": "2026-08-17T21:09:45Z",
             "owner": "Zandereins",
             "repo": "schliff",
             "stars": 13
@@ -2015,9 +2015,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T06:01:16.290Z",
+    "last_updated": "2026-08-18T05:56:19.156Z",
     "original_repository": "hesreallyhim/awesome-claude-code",
-    "original_repository_sha": "2f6708f4ae487c1dcb7bcffe694eeb89758de4cc",
+    "original_repository_sha": "86f605ec356ec685eda4582a1e3eddb673be1ad0",
     "enhanced_repository": "enhansome/enhansome-claude-code",
     "enhanced_repository_description": null,
     "title": "Awesome claude code with stars"
