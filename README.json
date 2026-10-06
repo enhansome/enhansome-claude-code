@@ -19,7 +19,7 @@
             "open_issues": 131,
             "owner": "multica-ai",
             "repo": "andrej-karpathy-skills",
-            "stars": 217167,
+            "stars": 217178,
             "topics": []
           },
           "first_seen": "2026-08-28T17:39:15.454Z"
@@ -40,7 +40,7 @@
             "open_issues": 62,
             "owner": "shareAI-lab",
             "repo": "learn-claude-code",
-            "stars": 78056,
+            "stars": 78061,
             "topics": [
               "agent",
               "agent-development",
@@ -72,7 +72,7 @@
             "open_issues": 32,
             "owner": "luongnv89",
             "repo": "claude-howto",
-            "stars": 41761,
+            "stars": 41762,
             "topics": [
               "claude-code",
               "guide",
@@ -212,7 +212,7 @@
             "open_issues": 1387,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 179855,
+            "stars": 179860,
             "topics": [
               "agent-skills"
             ]
@@ -235,7 +235,7 @@
             "open_issues": 1058,
             "owner": "anthropics",
             "repo": "claude-plugins-official",
-            "stars": 37452,
+            "stars": 37455,
             "topics": [
               "claude-code",
               "mcp",
@@ -281,7 +281,7 @@
             "open_issues": 101,
             "owner": "anthropics",
             "repo": "claude-code-security-review",
-            "stars": 6312,
+            "stars": 6314,
             "topics": []
           },
           "first_seen": "2026-08-28T17:39:15.454Z"
@@ -1069,7 +1069,7 @@
             "open_issues": 21,
             "owner": "K-Dense-AI",
             "repo": "scientific-agent-skills",
-            "stars": 47742,
+            "stars": 47750,
             "topics": [
               "agent-skills",
               "ai-scientist",
@@ -1108,7 +1108,7 @@
             "open_issues": 5,
             "owner": "pedrohcgs",
             "repo": "claude-code-my-workflow",
-            "stars": 1631,
+            "stars": 1632,
             "topics": [
               "academic-writing",
               "causal-inference",
@@ -1209,7 +1209,7 @@
             "id": 1016566225,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T18:27:38Z",
+            "last_commit": "2026-10-06T11:28:20Z",
             "open_issues": 6,
             "owner": "fcakyon",
             "repo": "claude-codex-settings",
@@ -1406,8 +1406,8 @@
             "id": 1186016118,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T09:45:26Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-06T12:09:57Z",
+            "open_issues": 5,
             "owner": "EndeavorYen",
             "repo": "chrome-cdp-ex",
             "stars": 22,
@@ -1731,7 +1731,7 @@
             "open_issues": 1070,
             "owner": "slopus",
             "repo": "happy",
-            "stars": 24028,
+            "stars": 24030,
             "topics": [
               "claude-code",
               "claude-desktop",
@@ -1793,7 +1793,7 @@
             "open_issues": 7,
             "owner": "0-AI-UG",
             "repo": "cate",
-            "stars": 2174,
+            "stars": 2175,
             "topics": []
           },
           "first_seen": "2026-08-28T17:39:15.454Z"
@@ -1998,7 +1998,7 @@
             "open_issues": 2,
             "owner": "jarrodwatts",
             "repo": "claude-hud",
-            "stars": 28328,
+            "stars": 28331,
             "topics": [
               "anthropic",
               "claude",
@@ -2027,7 +2027,7 @@
             "open_issues": 169,
             "owner": "sirmalloc",
             "repo": "ccstatusline",
-            "stars": 13199,
+            "stars": 13200,
             "topics": [
               "ai-tools",
               "claude-code",
@@ -2236,10 +2236,10 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2026-10-06T06:44:35Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "cathrynlavery",
             "repo": "diagram-design",
-            "stars": 43595,
+            "stars": 43628,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -2378,7 +2378,7 @@
             "open_issues": 0,
             "owner": "educlopez",
             "repo": "ui-craft",
-            "stars": 369,
+            "stars": 370,
             "topics": [
               "agent-skills",
               "anti-slop",
@@ -2565,7 +2565,7 @@
             "open_issues": 4,
             "owner": "Alisa0808",
             "repo": "vox-director",
-            "stars": 2141,
+            "stars": 2145,
             "topics": [
               "ai",
               "ai-video",
@@ -2676,7 +2676,7 @@
             "open_issues": 0,
             "owner": "iart-ai",
             "repo": "motion-skills",
-            "stars": 719,
+            "stars": 720,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -2840,7 +2840,7 @@
             "open_issues": 125,
             "owner": "NVIDIA",
             "repo": "SkillSpector",
-            "stars": 19513,
+            "stars": 19520,
             "topics": [
               "agent-security",
               "agent-skills",
@@ -2873,7 +2873,7 @@
             "open_issues": 37,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7388,
+            "stars": 7389,
             "topics": [
               "agent-skills"
             ]
@@ -2913,8 +2913,8 @@
             "id": 1122873619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:17:17Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-06T12:01:55Z",
+            "open_issues": 4,
             "owner": "kenryu42",
             "repo": "cc-safety-net",
             "stars": 1576,
@@ -3448,7 +3448,7 @@
             "open_issues": 459,
             "owner": "garrytan",
             "repo": "gstack",
-            "stars": 135448,
+            "stars": 135456,
             "topics": []
           },
           "first_seen": "2026-08-28T17:39:15.454Z"
@@ -3469,7 +3469,7 @@
             "open_issues": 120,
             "owner": "EveryInc",
             "repo": "compound-engineering-plugin",
-            "stars": 25402,
+            "stars": 25403,
             "topics": [
               "compound",
               "engineering"
@@ -3510,11 +3510,11 @@
             "id": 1123956658,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T04:26:11Z",
-            "open_issues": 135,
+            "last_commit": "2026-10-06T12:03:47Z",
+            "open_issues": 134,
             "owner": "backnotprop",
             "repo": "plannotator",
-            "stars": 9165,
+            "stars": 9168,
             "topics": [
               "agents",
               "claude-code",
@@ -3598,7 +3598,7 @@
             "open_issues": 4,
             "owner": "automazeio",
             "repo": "ccpm",
-            "stars": 8398,
+            "stars": 8399,
             "topics": [
               "ai-agents",
               "ai-coding",
@@ -3888,10 +3888,10 @@
                 "language": "TypeScript",
                 "license": null,
                 "last_commit": "2026-10-06T03:55:19Z",
-                "open_issues": 14294,
+                "open_issues": 14310,
                 "owner": "anthropics",
                 "repo": "claude-code",
-                "stars": 149566,
+                "stars": 149568,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:39:15.454Z"
@@ -4087,10 +4087,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-10-06T05:15:48Z",
-            "open_issues": 313,
+            "open_issues": 314,
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 295806,
+            "stars": 295825,
             "topics": [
               "ai",
               "brainstorming",
@@ -4116,11 +4116,11 @@
             "id": 1201173969,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:52:22Z",
-            "open_issues": 78,
+            "last_commit": "2026-10-06T10:57:19Z",
+            "open_issues": 65,
             "owner": "JuliusBrussee",
             "repo": "caveman",
-            "stars": 110087,
+            "stars": 110100,
             "topics": [
               "ai",
               "anthropic",
@@ -4573,7 +4573,7 @@
             "id": 1101260587,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:23:07Z",
+            "last_commit": "2026-10-06T12:07:56Z",
             "open_issues": 1,
             "owner": "jungjaehoon-lifegamez",
             "repo": "MAMA",
@@ -4823,7 +4823,7 @@
                 "open_issues": 97,
                 "owner": "rullerzhou-afk",
                 "repo": "clawd-on-desk",
-                "stars": 6375,
+                "stars": 6377,
                 "topics": [
                   "claude-code",
                   "codex",
@@ -4854,7 +4854,7 @@
                 "open_issues": 45,
                 "owner": "hoangsonww",
                 "repo": "Claude-Code-Agent-Monitor",
-                "stars": 1047,
+                "stars": 1048,
                 "topics": [
                   "ai-agents",
                   "claude-agents",
@@ -5061,11 +5061,11 @@
                 "id": 992755069,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T10:21:46Z",
+                "last_commit": "2026-10-06T11:19:14Z",
                 "open_issues": 14,
                 "owner": "ccusage",
                 "repo": "ccusage",
-                "stars": 18893,
+                "stars": 18894,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:39:15.454Z"
@@ -5082,11 +5082,11 @@
                 "id": 1120106077,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T09:35:51Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-06T11:26:11Z",
+                "open_issues": 15,
                 "owner": "tddworks",
                 "repo": "ClaudeBar",
-                "stars": 1525,
+                "stars": 1526,
                 "topics": [
                   "antigravity",
                   "claude",
@@ -5983,10 +5983,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-05T04:55:16Z",
-            "open_issues": 354,
+            "open_issues": 355,
             "owner": "affaan-m",
             "repo": "ECC",
-            "stars": 273912,
+            "stars": 273954,
             "topics": [
               "ai-agents",
               "anthropic",
@@ -6039,7 +6039,7 @@
             "id": 1078701786,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T10:35:40Z",
+            "last_commit": "2026-10-06T11:51:31Z",
             "open_issues": 1,
             "owner": "maxritter",
             "repo": "pilot-shell",
@@ -6134,7 +6134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:52:28.021Z",
+    "last_updated": "2026-10-06T12:10:30.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
@@ -6143,10 +6143,10 @@
       "language": "Python",
       "license": "NOASSERTION",
       "last_commit": "2026-10-06T09:12:16Z",
-      "open_issues": 1221,
+      "open_issues": 1222,
       "owner": "hesreallyhim",
       "repo": "awesome-claude-code",
-      "stars": 55137,
+      "stars": 55145,
       "topics": [
         "agent-skills",
         "agentic-code",
